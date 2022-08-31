@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo"]
+CMD ["echo", "123"]
